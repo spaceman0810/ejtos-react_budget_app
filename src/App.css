@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.green-label {
+  color: green;
+}
+
+.green-input {
+  border-color: green;
+}
